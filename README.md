@@ -8,5 +8,13 @@ This web application provides an intuitive interface to view, filter, and analyz
 - **Tailwind CSS:** For utility-first CSS styling.
 - **Chart.js:** For rendering dynamic charts and visualizations.
 - **Fetch API:** For retrieving data from the backend.
+- **json-server:** For simulating a REST API backend.
 
-[View the app](https://ahmed-fathy-abkarenoo.github.io/customer-transactions/)
+## Getting Started
+
+### Prerequisites
+
+To run this project locally, you will need to have `json-server` installed. If you don't have it installed, you can install it globally using npm:
+
+```bash
+npm install -g json-server
